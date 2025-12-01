@@ -1,0 +1,5 @@
+train: C:/Users/user/Desktop/CV/dataset/images/train
+val: C:/Users/user/Desktop/CV/dataset/images/val
+
+nc: 1
+names: ['business_card']
